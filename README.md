@@ -1,5 +1,6 @@
 # ESP32-Wifi_Provisioning
 We enable Wi-Fi provisioning on the ESP32 using BLE (Bluetooth Low Energy) and SoftAP (Software Access Point) with the available code in the Espressif ESP32 library, leveraging the Arduino IDE. This setup allows users to connect to the ESP32 via BLE to provision Wi-Fi credentials, while the ESP32 itself runs in SoftAP mode to create a local network for configuration.
+![WhatsApp Image 2025-01-19 at 19 30 25_9ac44909](https://github.com/user-attachments/assets/dde479fb-20b4-447e-a023-8a2eaabdd917)
 
 
 1)USING BLE
